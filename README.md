@@ -1,2 +1,2 @@
-# Smiley-SR-Latch
+# Smiley-PCB
 No Code Required.
