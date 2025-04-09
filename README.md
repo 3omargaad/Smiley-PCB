@@ -3,7 +3,7 @@ This is a simple circuit the starts of frowny :(
 but when you push a button, it smiles :)
 
 Electronic Hardware Needed:
-- x10 White LEDs (5mm)
+- x9 White LEDs (5mm)
 - x9 330Ω Resistors
 - x2 10kΩ Resistors
 - x1 1kΩ Resistor
