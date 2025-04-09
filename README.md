@@ -9,5 +9,7 @@ Electronic Hardware Needed:
 - x1 1kΩ Resistor
 - x2 Push Buttons
 - x1 555 Timer IC (NE555P)
-- x1 22nF Non-Polarised Capacitor
+- x1 22nF Non-Polarised Capacitor (Optional)
 - x2 NPN Transistors (2N2222 A331)
+- x2 AA Batteries (1.2-1.5V)
+- x1 AA Battery Holder
