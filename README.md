@@ -13,3 +13,5 @@ Electronic Hardware Needed:
 - x2 NPN Transistors (2N2222 A331)
 - x2 AA Batteries (1.2-1.5V)
 - x1 AA Battery Holder
+
+No Code Required.
