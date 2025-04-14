@@ -15,3 +15,5 @@ Electronic Hardware Needed:
 - x1 AA Battery Holder
 
 No Code Required.
+
+🛠️ Designed with KiCAD v9.0.0
