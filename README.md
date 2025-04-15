@@ -4,12 +4,12 @@ but when you push a button, it smiles :)
 
 Electronic Hardware Needed:
 - x9 White LEDs (5mm)
-- x9 330Ω Resistors
-- x2 10kΩ Resistors
-- x1 1kΩ Resistor
-- x2 Push Buttons
+- x9 330Ω Resistors (THT)
+- x2 10kΩ Resistors (THT)
+- x1 1kΩ Resistor (THT)
+- x2 Push Buttons (THT)
 - x1 555 Timer IC (NE555P)
-- x1 22nF Non-Polarised Capacitor (Optional)
+- x1 22nF Non-Polarised Capacitor (THT) (Optional)
 - x2 NPN Transistors (2N2222 A331)
 - x2 AA Batteries (1.2-1.5V)
 - x1 AA Battery Holder
