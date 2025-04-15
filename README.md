@@ -17,3 +17,5 @@ Electronic Hardware Needed:
 No Code Required.
 
 🛠️ Designed with KiCAD v9.0.0
+
+Download the [gerber.zip](https://github.com/3omargaad/Smiley-PCB/blob/main/gerber.zip) file and order from a manufacturer like JLCPBC or PCBWay to get the PCB itself.
